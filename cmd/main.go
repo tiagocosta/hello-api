@@ -18,7 +18,7 @@ func main() {
 			w.Header().Set("Content-Type", "application/json; charset=utf-8")
 			resp := Resp{
 				Language:    "English",
-				Translation: "Hello",
+				Translation: "Hello!",
 			}
 			if err := enc.Encode(resp); err != nil {
 				panic("unable to encode response")
