@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hello API
 
 ## Dependencies
@@ -25,3 +26,6 @@
 - [ ] Store translations in short-term storage
 - [ ] Call existing service for translation
 - [ ] Move towards long-term storage
+=======
+# hello-api
+>>>>>>> 074fecfb9e7b7edfa76ff3b1eb990ccba079c631
